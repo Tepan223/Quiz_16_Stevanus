@@ -33,6 +33,12 @@
   width: 120px;
   text-align: center;
   height: 40px;
+  font-weight: bold;
+  display: flex;
+}
+
+.select-head option{
+  font-weight: bold;
 }
 
 .select-head:focus {
@@ -50,4 +56,16 @@
   justify-content: space-between;
   padding: 25px 40px 25px 40px;
   box-shadow: 0px 0px 5px 0px black;
+}
+
+.left-side.bar {
+  background-color: red;
+}
+
+.main-content{
+  background-color: rebeccapurple;
+}
+
+.right-side-bar{
+  background-color: antiquewhite;
 }
