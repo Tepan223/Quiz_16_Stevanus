@@ -10,7 +10,7 @@ function LeftSideBar() {
 
   return (
     <>
-      <div className="left-side bar">
+      <div className="left-side-bar">
         <div className="in-left-side-bar">
           <div className='home'>
             <button className='btn-side-bar'>
